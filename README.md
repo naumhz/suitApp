@@ -1,5 +1,7 @@
 # Suitmedia App
 This Android application was developed as part of the selection process for **Magang Berdampak 2025 – Mobile Developer Intern** at Suitmedia.
+> 💡 Note: The source code is available on the `master` branch.  
+> Please switch to the `master` branch to view the Android project files.
 
 ## Features
 1. **Palindrome Checker** – Checks whether the input text is a palindrome.
